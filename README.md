@@ -1,2 +1,2 @@
 # custom-shell
-gcc -Wall -Werror wish.c -o wish
+gcc -Wall -Werror shell.c -o shell
